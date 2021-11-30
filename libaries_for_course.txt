@@ -1,0 +1,7 @@
+python-dev
+ipython
+python-matplotlib
+python-numpy
+python-scipy
+python-pygame
+cython
