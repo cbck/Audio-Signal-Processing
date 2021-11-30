@@ -22,6 +22,16 @@ In the following I listed some remarkable links to resources created by virtual 
 
 
 
+## VSTs (freebies)
+
+# Analysis Tools
+Sonic Visualizer https://www.sonicvisualiser.org/
+MATLAB
+
+Reaper
+Analog Emulation of Racks and Mixing Consoles: Reason
+
+
 You can use the [editor on GitHub](https://github.com/cbck/Audio-Signal-Processing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
