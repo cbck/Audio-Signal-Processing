@@ -11,7 +11,16 @@
 ## Web Resources
 https://freesound.org/
 
-Ghost in the MP3
+Microphones: 
+https://www.ingwu.de/mikrofontechnik/mikrofonaufsaetze.html
+
+
+Libraries:
+BBC
+Fairlight Library
+jamendo.org
+
+
 
 ## Podcasts
 
@@ -23,6 +32,8 @@ In the following I listed some remarkable links to resources created by virtual 
 
 3blue1brown
 
+# Songliste for Compression
+Ghost in the mp3
 
 
 ## VSTs (freebies)
